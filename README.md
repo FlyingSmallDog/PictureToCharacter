@@ -1,0 +1,2 @@
+# PictureToCharacter
+一个简单的将图片或短视频转为字符画的python项目
